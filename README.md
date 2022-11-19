@@ -8,39 +8,39 @@ The aim of this project is to build a VGG16 model that can detect the area of da
 
 ![image](https://user-images.githubusercontent.com/103489073/202842467-1783af34-b479-464b-8c54-ad26d82c0ec1.png)
 
-Presentation1 (1)_page-0001 Assignment 😇
+Assignment 😇
 
- Assignment 1
- Assignment 2
- Assignment 3
+* Assignment 1
+* Assignment 2
+* Assignment 3
  
  
 PROJECT DESIGN & PLANNING 😇 Ideation Phase
 
- Empathy Map
- Brainstrom
- Literature Survey
- Problem Statement
+* Empathy Map
+* Brainstrom
+* Literature Survey
+* Problem Statement
  
  
 Project design Phase - 1
 
- Problem_solution_fit
- Proposed Solution
- Solution Architecture
+* Problem_solution_fit
+* Proposed Solution
+* Solution Architecture
  
  
 Project design Phase - 2
 
- Customer Journey
- Technology Architecture
- Dataflow Diagram
- Functional Requirements
+* Customer Journey
+* Technology Architecture
+* Dataflow Diagram
+* Functional Requirements
  
  
 PROJECT PLANNING PHASE 😇
 
- SPRINT 1
- SPRINT 2
- SPRINT 3
- SPRINT 4
+* SPRINT 1
+* SPRINT 2
+* SPRINT 3
+* SPRINT 4
